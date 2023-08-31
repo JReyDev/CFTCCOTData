@@ -28,7 +28,7 @@ def filter_and_convert(df):
 # Create a list of unique 'Market_and_Exchange_Names'
 unique_markets = sorted(df['Market_and_Exchange_Names'].dropna().unique().tolist())
 
-# Initialize the Dash app
+# Start the Dash app
 app = dash.Dash(__name__,assets_folder='assets')
 
 app.layout = html.Div(children=[
