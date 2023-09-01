@@ -1,5 +1,5 @@
 # CFTC COT Data Visualizer
-This is a dash app that extracts the CFTC Commitment of Traders weekly report data and separates it by the markets (soybean, corn, crudeoil, etc)
+This is a dash app that extracts the CFTC Commitment of Traders weekly report data and separates it by the markets/contract (soybean, corn, crudeoil, etc)
 
 <image src=https://github.com/JReyDev/CFTCCOTData/assets/102834451/b3f7ab18-e669-472c-989f-adc98dc8657d>
 
